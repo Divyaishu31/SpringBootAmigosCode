@@ -1,6 +1,7 @@
 package com.example.demo.student;
 
 import java.time.LocalDate;
+//This class serves as the data access layer.
 
 public class Student {
 
